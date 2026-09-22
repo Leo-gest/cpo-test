@@ -1,0 +1,11 @@
+VERIFICACIÓN FINAL
+
+Estructura:
+  /es/ = español
+  /en/ = inglés
+  /index.html = entrada para GitHub Pages, redirige a /es/
+
+Sitemap: 12 URLs
+Dominio del sitemap: https://www.gestpointgsm.com
+XML: válido y sin duplicados
+robots.txt: apunta al sitemap de producción
