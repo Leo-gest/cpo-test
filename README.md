@@ -2,6 +2,6 @@
 certified refurb
 
 
-## Language selector
+## Manual English version
 
-The static site now includes an **ES / EN selector in the top-right corner** on every HTML page. Spanish remains the default language. English is generated client-side using Google Translate, so the site keeps a single codebase and remains easy to maintain. English page titles and meta descriptions are also updated when English is selected.
+The site includes a manually translated English version under `/en/`. Spanish remains the default language and each page has an ES/EN selector. English pages use their own canonical URL and hreflang links for SEO. No machine-translation service is required at runtime.
